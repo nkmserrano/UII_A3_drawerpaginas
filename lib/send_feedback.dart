@@ -29,9 +29,9 @@ class _SendFeedbackPageState extends State<SendFeedbackPage> {
         child: const Column(
           children: [
             Text('Nairobi Montiel',
-                style: TextStyle(fontSize: 25, color: Colors.white)),
+                style: TextStyle(fontSize: 25)),
             Text('Mat. 21308051280973',
-                style: TextStyle(fontSize: 20, color: Colors.white)),
+                style: TextStyle(fontSize: 20)),
           ],
         ),
       ),
